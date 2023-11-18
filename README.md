@@ -3,6 +3,8 @@
 Calculadora de IMC feita com React + Typescript
 
 Projeto integrador parte II
+### Link do app em Funcionamento
+- `https://www.youtube.com/watch?v=ejTmO461Bxw`
 
 ### Grupo 49
 
